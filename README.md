@@ -1,6 +1,7 @@
 # code-refactor-standards
 NU Bootcamp week 01 homework
 ## Purpose
+Refactoring the Horiseon code to meet accessibility standards.
 
 ## Screenshot of application 
 ![Screenshot (159)](https://user-images.githubusercontent.com/97211077/152610452-cd61234c-5b92-40eb-b492-1da32ce415af.png)
